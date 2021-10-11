@@ -1,0 +1,1 @@
+# Challenges-of-Applying-Knowledge-Graph-and-their-Embeddings-to-a-Real-world-Use-case
